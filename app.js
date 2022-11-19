@@ -6,5 +6,5 @@ const newArray = lodash.flattenDeep(array);
 
 console.log(array);
 console.log(newArray);
-
+console.log("newewewew");
 console.log("arararar");
